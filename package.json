@@ -2,6 +2,9 @@
     "title": "Agency",
     "name": "startbootstrap-agency",
     "version": "5.0.2",
+    "engines": {
+        "node": "8.17.x"
+    },
     "description": "Agency is a one page HTML theme for Bootstrap.",
     "keywords": [
         "css",
